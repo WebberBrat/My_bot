@@ -1,0 +1,12 @@
+People you assigned to moderate your LIVE: N/A
+
+Allow viewers to send you gifts during your LIVE: N/A
+Show your username and gift information in features with ranking lists: On
+Allow people to send and receive comments during your LIVE: N/A
+Hide potential spam or offensive comments from your LIVE: N/A
+Hide comments that contain the following keywords from your LIVE: N/A
+Allow others to invite you to co-host in LIVE: On
+Allow suggested LIVE hosts to invite you to co-host in LIVE: On
+Allow viewers to request to go LIVE with you: N/A
+Allow viewers to see and send questions and answers in your LIVE: N/A
+Allow agencies to find and invite you: N/A

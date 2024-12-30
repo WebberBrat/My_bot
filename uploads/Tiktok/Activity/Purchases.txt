@@ -1,0 +1,147 @@
+Send Gifts History:
+Date: 2023-11-19 20:25:00
+Gift Amount: 1
+Username: baursuckkkkkkkkkkkkkkk
+
+Date: 2023-11-19 20:27:15
+Gift Amount: 1
+Username: baursuckkkkkkkkkkkkkkk
+
+Date: 2023-11-19 20:28:26
+Gift Amount: 1
+Username: masha_in_the_family
+
+Date: 2023-11-30 18:58:56
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 19:20:06
+Gift Amount: 1
+Username: yar.yevchenko
+
+Date: 2023-11-30 19:47:07
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 19:47:16
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 19:50:42
+Gift Amount: 9
+Username: arti.5656
+
+Date: 2023-11-30 20:44:15
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 20:44:16
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 20:44:17
+Gift Amount: 4
+Username: arti.5656
+
+Date: 2023-11-30 20:44:18
+Gift Amount: 2
+Username: arti.5656
+
+Date: 2023-11-30 20:56:06
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 20:56:09
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 20:56:10
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 20:56:12
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 20:56:13
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 21:00:06
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-11-30 21:00:07
+Gift Amount: 4
+Username: arti.5656
+
+Date: 2023-12-01 14:50:34
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 14:50:35
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 14:50:36
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 14:50:37
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 14:50:38
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 14:50:39
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 14:50:40
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 14:50:41
+Gift Amount: 2
+Username: arti.5656
+
+Date: 2023-12-01 14:50:43
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 21:42:57
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 21:42:58
+Gift Amount: 1
+Username: arti.5656
+
+Date: 2023-12-01 21:42:59
+Gift Amount: 3
+Username: arti.5656
+
+
+
+Buy Gifts History:
+Date: 2023-11-30 20:43:42
+Price: 0.07
+
+Date: 2023-11-30 20:55:33
+Price: 0.07
+
+Date: 2023-11-30 20:59:46
+Price: 0.07
+
+Date: 2023-12-01 14:45:19
+Price: 0.07
+
+Date: 2023-12-01 14:47:31
+Price: 0.07
+
+Date: 2023-12-01 21:42:35
+Price: 0.07
+
+

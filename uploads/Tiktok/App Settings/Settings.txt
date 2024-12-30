@@ -1,0 +1,29 @@
+
+Suggest your account to contacts: enabled
+Suggest your account to Facebook friends: enabled
+Suggest your account to people who open or send links to you: enabled
+Private Account: Disabled
+Personalized Ads: Enabled
+Who Can Post Comments: Friends
+Who Can Duet With Me: Off
+Who Can Send Me Message: Everyone
+Who Can View Videos I Liked: Myself
+Who Can Stitch with your videos: Off
+Allow DownLoad: Off
+Filter Comments: Enabled
+
+Push Notification
+New Fans: Off
+New Likes on My Video: Off
+New Comments on My Video: Off
+Desktop notification: Default
+
+Language
+App Language: Українська
+Web Language: N/A
+
+Content Preferences
+Video Languages Preferences: [Українська English]
+Interests: 
+Keyword filters for videos in For You feed: [#shampoo #sfida #viral #velocita #guinnessworldrecords #challenge #perte #neiperte #cinta_a #aktarg #глэм #чес #metalfamily #металфемели]
+Keyword filters for videos in Following feed: []
